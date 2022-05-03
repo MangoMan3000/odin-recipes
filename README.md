@@ -1,0 +1,1 @@
+I will be creating a webpage for recipes with hyperlinks to each page from a home page. I will also have images of each recipe and a way to navigate to any other page from each page.
