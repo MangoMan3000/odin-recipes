@@ -1,6 +1,13 @@
 body {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 ul, ol {
     list-style-position: inside;
+}
+
+.lists {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
 }
